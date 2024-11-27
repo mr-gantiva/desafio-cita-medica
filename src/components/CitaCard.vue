@@ -29,7 +29,6 @@ const eliminarCita = () => {
 
 </script>
 
-<!-- src/components/CitaCard.vue -->
 <template>
     <div :style="{ border: `2px solid ${fondoGravedad}` }" class="cita-card" data-aos="fade-up">
         <div class="d-flex justify-content-between">
